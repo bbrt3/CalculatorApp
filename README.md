@@ -5,3 +5,4 @@ It was based on Windows 7 Calculator.
 
 I think i included every function from standard calculator and everything works correctly also looks almost like Win7 Calc!
 
+![Screenshot](https://i.imgur.com/DZNuCD3.png?raw=true "Title")
